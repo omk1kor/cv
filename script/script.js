@@ -1,5 +1,5 @@
 let holder = document.getElementById('background')
-let gs = 35;
+let gs = 42;
 
 window.onload = () => {
     for (let i =0; i < gs; i++){
